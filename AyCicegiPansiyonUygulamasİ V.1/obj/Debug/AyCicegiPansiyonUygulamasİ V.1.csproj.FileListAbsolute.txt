@@ -1,0 +1,25 @@
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\bin\Debug\AyCicegiPansiyonUygulamasİ V.1.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\bin\Debug\AyCicegiPansiyonUygulamasİ V.1.exe
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\bin\Debug\AyCicegiPansiyonUygulamasİ V.1.pdb
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.csproj.AssemblyReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.Properties.Resources.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.csproj.GenerateResource.cache
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.exe
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.pdb
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.Frm_YeniMusteri.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmAdminGiris.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmAnaForm.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmOdalar.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmMusteriler.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmGelirGider.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmStoklar.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ V.1.csproj.ResolveComReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmRadioDinle2.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmGazeteler.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmSifreGuncelle.resources
+C:\Users\bugra\OneDrive\Masaüstü\programlar\VİSUAL\AyCicegiPansiyonUygulamasİ V.1\obj\Debug\AyCicegiPansiyonUygulamasİ_V._1.FrmMesajlar.resources

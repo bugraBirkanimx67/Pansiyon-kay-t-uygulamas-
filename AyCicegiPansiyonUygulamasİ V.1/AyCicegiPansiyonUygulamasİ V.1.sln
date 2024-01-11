@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyCicegiPansiyonUygulamasİ V.1", "AyCicegiPansiyonUygulamasİ V.1.csproj", "{B626F155-3012-4266-9EE8-A27E97E845FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{C1D19135-D21B-4DA1-B5A9-CBF40DBAACBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B626F155-3012-4266-9EE8-A27E97E845FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B626F155-3012-4266-9EE8-A27E97E845FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B626F155-3012-4266-9EE8-A27E97E845FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B626F155-3012-4266-9EE8-A27E97E845FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D19135-D21B-4DA1-B5A9-CBF40DBAACBB}.Debug|Any CPU.ActiveCfg = Debug
+		{C1D19135-D21B-4DA1-B5A9-CBF40DBAACBB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B90E34C-AAD0-4EE0-B120-FC58983BE5D6}
+	EndGlobalSection
+EndGlobal
